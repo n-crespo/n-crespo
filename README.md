@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://ncrespo.com" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website" style="margin-right: 10px;">
   </a>
-  <a href="https://www.linkedin.com/in/nicolasecrespo" target="_blank">
+  <a href="https://www.linkedin.com/in/n-crespo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
